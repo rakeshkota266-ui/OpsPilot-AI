@@ -74,3 +74,14 @@ Built for the Flip the Switch Hackathon.
 ## 📄 License
 
 To be determined.
+## 🎬 Project Demo
+
+Watch the OpsPilot AI demonstration video:
+
+[OpsPilot AI – Hackathon Demo](./OpsPilot_AI_Demo.mp4)
+
+The demonstration covers the Flask incident dashboard, the four specialized AI agents, their individual responses in Mattermost, and the evidence-based verification process.
+
+**Demo outcome:** 0 passed, 0 failed, 5 untested. The simulated incident remains OPEN. No production changes were executed.
+
+**Current limitation:** The Flask dashboard is not directly integrated with Switch AI. The agents were demonstrated individually through the shared Mattermost channel.
